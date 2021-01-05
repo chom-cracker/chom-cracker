@@ -5,5 +5,5 @@
 ## 회의록
 |년도|링크|
 |:---:|:---:|
-|2020년|회의록(add link here)|
-|2021년|회의록(add link here)|
+|2020년|[회의록](https://github.com/chom-cracker/chom-cracker/tree/main/docs/2020)|
+|2021년|[회의록](https://github.com/chom-cracker/chom-cracker/tree/main/docs/2021)|
